@@ -6,8 +6,12 @@ Cara alternatif mengakses situs web yang telah diblokir oleh pemerintah Indonesi
 
 Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara berkala oleh para sukarelawan di Internet. Berikut ini adalah situs web yang menyediakan daftar situs web proksi:
 
+## Torrent
 * [The Proxy Bay](https://proxybay.github.io/) - The Pirate Bay
-* [Laman proksi Torrents.io](https://torrents.io/proxy/) - Menyediakan bermacam-macam situs web torrent <sup>(butuh bypass)</sup>
+* [Torrents.io](https://torrents.io/proxy/) - Menyediakan bermacam-macam situs web proksi untuk situs web torrent <sup>(butuh bypass)</sup>
+
+## Pendidikan
+* [Laman artikel "Universal access to science"](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) - Menyediakan situs web proksi untuk Sci-Hub dan Library Genesis (Libgen)
 
 ## Lisensi
 ![Lisensi Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)
