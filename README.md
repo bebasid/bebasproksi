@@ -1,4 +1,4 @@
-# Awesome Proxy
+# Awesome Proxy Website
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 [![Negara](https://img.shields.io/discord/630415907021389825?label=Discord&color=7388d9)](https://discord.gg/q7AAX3W)
 
