@@ -1,4 +1,7 @@
 # Awesome Proxy
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
+[![Negara](https://img.shields.io/discord/630415907021389825?label=Discord&color=7388d9)](https://discord.gg/q7AAX3W)
+
 Cara alternatif mengakses situs web yang telah diblokir oleh pemerintah Indonesia selain dengan [bypass](https://github.com/bebasid/bebasid) memanfaatkan berkas hosts adalah dengan situs web proksi.
 
 Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara berkala oleh para sukarelawan di Internet. Berikut ini adalah situs web yang menyediakan daftar situs web proksi:
