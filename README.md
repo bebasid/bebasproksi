@@ -8,10 +8,18 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 
 ## Torrent
 * [The Proxy Bay](https://proxybay.github.io/) - The Pirate Bay
-* [Torrents.io](https://torrents.io/proxy/) - Menyediakan bermacam-macam situs web proksi untuk situs web torrent <sup>(butuh bypass)</sup>
+* [Torrents.io](https://torrents.io/proxy/) - Menyediakan bermacam-macam situs web proksi untuk situs web torrent <sup>(butuh bypass)[[catatan 1]](#Catatan)</sup>
 
 ## Pendidikan
 * [Laman artikel "Universal access to science"](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) - Menyediakan situs web proksi untuk Sci-Hub dan Library Genesis (Libgen)
+
+## Mesin pencari
+* [DuckDuckGo Image](https://duckduckgo.com/?q=kata+kunci+pencarian&kp=-2&ia=images&iax=images)<sup>[[catatan 2]](#Catatan)</sup> - DuckDuckGo mampu menampilkan konten eksplisit di hasil penelusuran dan menampilkan gambar berukuran orisinal dari situs web yang diblokir<sup>[[catatan 3]](#Catatan)</sup>
+
+### Catatan
+<sup>1. (butuh bypass) artinya terblokir, butuh bypass melalui berkas hosts atau VPN atau jaringan Tor. Namun, daftar situs web proksi di dalamnya dapat diakses bebas.<br>
+2. Parameter `kp` dengan nilai `-2`  di duckduckgo.com adalah untuk menonaktifkan Safe Search. Sumber: [DuckDuckGo URL Parameters](https://duckduckgo.com/params).<br>
+3. Gambar berukuran orisinal dapat dibuka dan diunduh dikarenakan DuckDuckGo memiliki situs web proksi external-content.duckduckgo.com.</sup>
 
 ## Lisensi
 ![Lisensi Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)
