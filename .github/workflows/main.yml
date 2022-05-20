@@ -17,4 +17,4 @@ jobs:
       - name: Menginstal paket
         run: gem install awesome_bot
       - name: Memeriksa pranala luar pada berkas README
-        run: awesome_bot README.md --white-list archive.today,duckduckgo.com,translate.google.com
+        run: awesome_bot README.md --white-list archive.today,duckduckgo.com,googleweblight.com,translate.google.com
