@@ -16,6 +16,7 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 
 ## Mesin pencari
 * [DuckDuckGo Image](https://duckduckgo.com/?q=kata+kunci+pencarian&kp=-2&ia=images&iax=images)<sup>[[catatan 1]](#Catatan)</sup> - DuckDuckGo mampu menampilkan konten eksplisit di hasil penelusuran dan menampilkan gambar berukuran orisinal dari situs web yang diblokir.<sup>[[catatan 2]](#Catatan)</sup>
+* [Google Translate](https://translate.google.com/translate?sl=en&tl=id&hl=en&u=binance.com&client=webapp) - Google Translate mampu mengakses website yg diblokir dengan mengetikan site atau url nya di kolom translate lalu di klik langsung. maka google langsung menggunakan dns milik google untuk mengaksesnya.
 
 ### Catatan
 <sup>1. Parameter `kp` dengan nilai `-2`  di duckduckgo.com adalah untuk menonaktifkan Safe Search. Sumber: [DuckDuckGo URL Parameters](https://duckduckgo.com/params).<br>
