@@ -7,14 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
         with:
           fetch-depth: 1
       - name: Menyiapkan Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.1
       - name: Menginstal paket
         run: gem install awesome_bot
       - name: Memeriksa pranala luar pada berkas README
-        run: awesome_bot README.md --white-list duckduckgo.com
+        run: awesome_bot README.md --white-list archive.today,duckduckgo.com,translate.google.com
