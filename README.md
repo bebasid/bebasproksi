@@ -17,6 +17,10 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 ## Lainnya
 * [DuckDuckGo Image](https://duckduckgo.com/?q=kata+kunci+pencarian&kp=-2&ia=images&iax=images)<sup>[[catatan 1]](#Catatan)</sup> - DuckDuckGo mampu menampilkan konten eksplisit di hasil penelusuran dan menampilkan gambar berukuran orisinal dari situs web yang diblokir.<sup>[[catatan 2]](#Catatan)</sup>
 * [Google Translate](https://translate.google.com/translate?u=old.reddit.com) - Google Translate mampu mengakses situs web yang diblokir dengan mengetikkan URL situs web di kolom terjemahan yang hasilnya akan memuat sebuah tautan. Pengaksesan tautan tersebut akan melalui server proksi milik Google.
+* [Google Web Light](https://googleweblight.com/?lite_url=old.reddit.com) - Sama halnya dengan Google Translate.
+* [Wayback Machine](https://web.archive.org/web/*/https://old.reddit.com) - Jepretan situs web pada waktu tertentu.
+* [archive.today](https://archive.today/https://old.reddit.com/) - Sama halnya dengan Wayback Machine.
+* [Google Cache](https://webcache.googleusercontent.com/search?q=cache:thepiratebay.org) - Sama halnya dengan Wayback Machine.
 
 ### Catatan
 <sup>1. Parameter `kp` dengan nilai `-2`  di duckduckgo.com adalah untuk menonaktifkan Safe Search. Sumber: [DuckDuckGo URL Parameters](https://duckduckgo.com/params).<br>
