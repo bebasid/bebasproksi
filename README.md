@@ -7,6 +7,10 @@ Cara alternatif mengakses situs web yang telah diblokir oleh pemerintah Indonesi
 
 Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara berkala oleh para sukarelawan atau pemelihara situs web tersebut. Berikut ini adalah situs web yang menyediakan daftar situs web proksi:
 
+## Web Proxy
+- [hide.me Proxy](https://hide.me/id/proxy)
+- [HMA Web Proxy](https://www.hidemyass.com/id-id/proxy)
+
 ## Torrent
 * [The Proxy Bay](https://proxybay.github.io/) - The Pirate Bay.
 * [Torrends](https://torrends.to/proxy/) - Menyediakan bermacam-macam situs web proksi untuk situs web torrent.
