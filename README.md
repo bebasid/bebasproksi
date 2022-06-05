@@ -10,6 +10,7 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 ## Web Proxy
 - [hide.me Proxy](https://hide.me/id/proxy)
 - [HMA Web Proxy](https://www.hidemyass.com/id-id/proxy)
+- [Hidester Proxy](https://hidester.com/proxy)
 
 ## Torrent
 * [The Proxy Bay](https://proxybay.github.io/) - The Pirate Bay.
