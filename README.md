@@ -31,6 +31,9 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 <sup>1. Parameter `kp` dengan nilai `-2`  di duckduckgo.com adalah untuk menonaktifkan Safe Search. Sumber: [DuckDuckGo URL Parameters](https://duckduckgo.com/params).<br>
 2. Gambar berukuran orisinal dapat dibuka dan diunduh dikarenakan DuckDuckGo memiliki situs web proksi external-content.duckduckgo.com.</sup>
 
+## Lihat pula
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Daftar _front-end_ alternatif yang ramah terhadap privasi untuk situs-situs web populer.
+
 ## Lisensi
 ![Lisensi Creative Commons](https://licensebuttons.net/l/by/4.0/88x31.png)
 
