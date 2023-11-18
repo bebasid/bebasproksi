@@ -12,7 +12,7 @@ Situs-situs web yang tercantum di bawah ini kontennya akan diperbarui secara ber
 * [HMA Web Proxy](https://www.hidemyass.com/id-id/proxy)
 
 ## Torrent
-* [The Proxy Bay](https://proxybay.github.io/) - The Pirate Bay.
+* [The Proxy Bay](https://piratebayproxy.github.io/proxybay/) - The Pirate Bay.
 * [Torrends](https://torrends.to/proxy/) - Menyediakan bermacam-macam situs web proksi untuk situs web torrent.
 
 ## Pendidikan
